@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  font-family: "Mate SC", serif;
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 18px;
+}
+
+#submit {
+  display: inline-block;
+}
+
+#textbox {
+  text-align: center;
+  padding-bottom: 2em;
+}
+
+#textbox,
+h1 {
+  font-size: 1rem;
+}
+
+#clear {
+  display: inline-block;
+}
+
+#instruct {
+  text-align: center;
+  padding-bottom: 2em;
+}
+
+#box {
+  padding-bottom: 0.5em;
+}
+
+#pic {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#pic img {
+  width: 50rem;
+  height: 25em;
+}
+
+.navbar-brand {
+  margin-left: 1em;
+}
