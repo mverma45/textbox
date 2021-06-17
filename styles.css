@@ -41,8 +41,13 @@ h1 {
 #pic img {
   width: 50rem;
   height: 25em;
+  opacity: 0.6;
 }
 
 .navbar-brand {
   margin-left: 1em;
+}
+
+#btn-clear {
+  background-color: rgb(29, 213, 245);
 }
